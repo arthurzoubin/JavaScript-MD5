@@ -1,0 +1,14 @@
+{
+    "name": "JavaScript-MD5",
+    "version": "1.0.0",
+    "description": "JavaScript MD5 implementation.",
+    "keywords": [
+        "javascript",
+        "md5"
+    ],
+    "scripts": [
+        "js/md5.js"
+    ],
+    "main": "js/md5.js",
+    "license": "MIT"
+}
